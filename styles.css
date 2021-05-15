@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font: Verdana, Arial, Helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.padding01 {
+	padding: 10px;
+}
+
+.padding02 {
+	padding: 20px;
+}
+
+#header {
+
+}
+
+#header-grid {
+	max-width: 80%;
+	display: grid;
+	grid-auto-columns: 1fr;
+	grid-template-columns: 1fr 1fr;
+	margin-right: auto;
+	margin-left: auto;
+	background: #333333;
+}
+
+#logo-wrapper {
+
+}
+
+#nav-wrapper {
+
+}
+
+
+
+
+
+h1 {
+	color: #333;
+	font-family: Arial;
+}
